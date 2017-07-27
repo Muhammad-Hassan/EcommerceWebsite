@@ -1,0 +1,2 @@
+# EcommerceWebsite
+This was my final year project for MCS (Masters In Computer Science) Program From Karachi University. I have developed this project all by myself without any group. This project is developed by using Core PHP and MYSQL. The frontend of the website uses HTML5, Bootstrap and Jquery. I have also integrated stripe into this website as a payment gateway. I also have used Ajax in order to fetch data from database to display dynamic data into website. This website has everything dynamic.
